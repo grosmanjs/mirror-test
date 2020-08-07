@@ -1,3 +1,2 @@
 Let's test the commits mirroring
 Adding a new line
-Another line
